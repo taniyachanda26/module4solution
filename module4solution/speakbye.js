@@ -1,6 +1,6 @@
 (function(window){
     var byespekar={};
-    var say=Good Bye;
+    var say="Good Bye";
     byespekar.saybye=function(name){
         console.log(say +" "+name);
     }
